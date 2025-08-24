@@ -42,14 +42,10 @@ Face-Recognition-Attendance/
 
 ##Installation & Setup
 
-1)Clone this repo:
-  git clone https://github.com/your-username/Face-Recognition-Attendance.git
-  cd Face-Recognition-Attendance
-
-2)Install dependencies:
+1)Install dependencies:
   pip install -r requirements.txt
 
-3)Run the program:
+2)Run the program:
   python main.py
 
 ##Future Enhancements
@@ -57,5 +53,6 @@ Face-Recognition-Attendance/
 1)GUI-based interface for easier use
 2)Store attendance in a database (MySQL/SQLite)
 3)Cloud integration for remote access
+
 
 
